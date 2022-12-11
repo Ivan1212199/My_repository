@@ -4,3 +4,9 @@
         while (i < N) do
     i=i+1
 print (massuve[N])
+
+
+
+
+
+"создам коментарий и перенесу его в master"
