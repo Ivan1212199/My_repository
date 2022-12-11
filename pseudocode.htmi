@@ -1,0 +1,6 @@
+<script>
+    massuve[N]
+        i = 0
+        while (i < N) do
+    i=i+1
+print (massuve[N])
